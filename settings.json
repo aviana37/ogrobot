@@ -1,0 +1,14 @@
+{
+  "bot": {
+    "channel": "your-channel",
+    "prefix": "!"
+  },
+  "audios": {
+    "path": "audio"
+  },
+  "voice": {
+    "id": 0,
+    "rate": 140,
+    "volume": 1.0
+  }
+}
